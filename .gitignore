@@ -1,0 +1,4 @@
+#virtual envs
+venv/
+# api keys and stugffs
+.env
